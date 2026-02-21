@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #0a1a0f;
+  height: 100dvh;
+  overflow: hidden;
+}
+
+#root {
+  height: 100dvh;
+  overflow: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(74, 222, 128, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(74, 222, 128, 0.4);
+}
+
+/* Auto-resize textarea */
+textarea {
+  field-sizing: content;
+}
+
+/* Keyboard key styling */
+kbd {
+  font-family: inherit;
+}
+
+/* Subtle text glow for headings */
+.glow {
+  text-shadow: 0 0 40px rgba(74, 222, 128, 0.3);
+}

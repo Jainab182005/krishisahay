@@ -1,0 +1,125 @@
+Tomato leaves turning yellow may indicate nitrogen deficiency.
+Tomato early blight is caused by fungal infection and appears as brown spots.
+Rice bacterial leaf blight causes yellowing and drying of leaves.
+Wheat rust disease causes reddish-brown powder on leaves.
+Cotton leaf curl virus reduces yield significantly.
+Brown plant hopper affects rice crops and reduces yield.
+Aphids suck sap from plants and cause leaf curling.
+Fall armyworm damages maize crops.
+Whiteflies spread viral infections in vegetables.
+Stem borer damages rice and wheat stems.
+Urea provides nitrogen to crops.
+DAP fertilizer provides phosphorus.
+Potassium improves plant disease resistance.
+Organic compost improves soil fertility.
+Zinc deficiency causes stunted plant growth.
+Drip irrigation saves water and improves crop yield.
+Overwatering can cause root rot.
+Mulching helps retain soil moisture.
+Crop rotation improves soil nutrients.
+Sowing time depends on seasonal rainfall.
+PM-KISAN provides financial assistance to farmers.
+Soil Health Card scheme helps farmers know soil nutrients.
+Pradhan Mantri Fasal Bima Yojana provides crop insurance.
+Kisan Credit Card provides low interest loans.
+e-NAM is an online agricultural trading platform.
+Powdery mildew appears as white powder on plant leaves.
+Vermicompost enhances soil microbial activity.
+Green manure improves soil organic matter.
+Balanced fertilization increases crop yield.
+Excess nitrogen can reduce fruit quality.
+Soil testing helps determine nutrient requirements.
+Sprinkler irrigation distributes water uniformly.
+Intercropping reduces pest infestation.
+Proper spacing increases crop productivity.
+Timely sowing improves germination rates.
+Weed control improves crop growth.
+Integrated pest management reduces chemical usage.
+National Food Security Mission supports crop production.
+Micro-irrigation schemes promote water conservation.
+Organic farming reduces chemical dependency.
+Precision farming uses technology for efficient agriculture.
+Climate change affects crop productivity.
+Drought stress reduces crop yield significantly.
+Flooding damages root systems in crops.
+Salinity in soil reduces plant growth.
+High temperature affects pollination in crops.
+Hybrid seeds improve crop productivity.
+Seed treatment prevents fungal infections.
+Timely harvesting improves grain quality.
+Post-harvest storage reduces crop losses.
+Cold storage preserves perishable produce.
+Mechanized farming increases efficiency and reduces labor cost.
+Neem-based pesticides are eco-friendly alternatives.
+Bordeaux mixture controls fungal diseases in crops.
+Trichoderma is a bio-fungicide used against soil-borne pathogens.
+Pseudomonas fluorescens is used to control bacterial diseases in plants.
+Pheromone traps help monitor and control insect pests.
+Yellow sticky traps attract and capture whiteflies and thrips.
+Bt (Bacillus thuringiensis) is a bio-pesticide for caterpillar control.
+Neem cake is an organic fertilizer that also controls pests.
+Cover crops prevent soil erosion and improve soil health.
+Raised bed farming improves drainage and root development.
+Hydroponics allows growing crops without soil using nutrient solutions.
+Aquaponics combines fish farming with hydroponic plant cultivation.
+Protected cultivation using greenhouses extends growing seasons.
+Fertigation applies fertilizers through irrigation water efficiently.
+Canopy management in fruit trees improves light penetration and fruit quality.
+Pruning removes dead or excess branches to improve plant health.
+Thinning fruit reduces competition and improves fruit size.
+Pinching removes growing tips to encourage bushy growth in vegetables.
+Grafting improves plant vigor and disease resistance.
+Summer plowing exposes soil to sunlight and kills pests and diseases.
+Land leveling improves water distribution in fields.
+Terracing prevents soil erosion on slopes.
+Bund construction helps in water conservation.
+Farm pond construction helps store rainwater for irrigation.
+Contour farming reduces runoff and soil erosion.
+Agroforestry integrates trees with crops for multiple benefits.
+Bio-intensive farming maximizes yields in small spaces.
+System of Rice Intensification (SRI) increases rice yield with less water.
+Direct seeded rice reduces labor and water usage.
+Laser land leveling ensures uniform water distribution.
+Subsurface drip irrigation reduces evaporation losses.
+Rainwater harvesting reduces dependence on ground water.
+Wind breaks protect crops from wind damage.
+Silage making preserves green fodder for livestock.
+Biogas production from agricultural waste provides clean energy.
+Solar pumps reduce irrigation costs for small farmers.
+Mobile soil testing labs help farmers get quick soil analysis.
+Crop insurance protects farmers against natural calamities.
+Minimum support price (MSP) guarantees farmers a minimum income.
+Mandi portal helps farmers find best prices for their produce.
+Agri clinics provide agricultural services at farm level.
+Farmer Producer Organizations (FPO) help small farmers collectively market produce.
+Self-Help Groups (SHG) support women in agriculture with financial inclusion.
+NABARD provides refinancing to banks for agricultural lending.
+Soil organic carbon sequestration helps in climate change mitigation.
+Biochar application improves soil water holding capacity.
+Zinc sulfate application corrects zinc deficiency in soil.
+Boron deficiency causes hollow stems and poor fruit set.
+Iron deficiency causes interveinal chlorosis in leaves.
+Magnesium deficiency shows as yellowing between leaf veins.
+Calcium deficiency causes blossom end rot in tomato and pepper.
+Sulfur deficiency causes yellowing of young leaves.
+Rice paddy cultivation requires flooded fields during initial growth stages.
+Wheat requires cool temperatures and moderate rainfall for optimal growth.
+Cotton grows best in black soil with hot climate and moderate rainfall.
+Sugarcane is a water-intensive crop requiring about 1500-2500mm of water.
+Groundnut grows in sandy loam soil and requires warm temperatures.
+Soybean is a legume that fixes nitrogen in soil and improves soil fertility.
+Chilli requires warm climate and well-drained soil for best yield.
+Onion grows well in loamy soil with good drainage and full sunlight.
+Potato requires cool climate and well-drained fertile sandy loam soil.
+Turmeric thrives in tropical climate with rainfall between 1000-2000mm.
+Ginger prefers warm humid climate and well-drained loamy soil.
+Maize is a kharif crop sown between June and July in India.
+Mung bean is a short-duration legume suitable for intercropping.
+Horse gram is a drought-tolerant crop suitable for dry land farming.
+Ragi is a nutritious millet that grows in low fertility soils.
+Bajra is drought-tolerant and suitable for arid and semi-arid regions.
+Jowar is a multipurpose crop used for grain and fodder.
+Arhar (pigeon pea) fixes nitrogen and grows in tropical climates.
+Sesame is a drought-tolerant oilseed crop grown in kharif season.
+Castor is an industrial oilseed crop tolerant to drought conditions.
+Sunflower can be grown in all seasons with irrigation support.
